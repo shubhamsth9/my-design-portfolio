@@ -50,6 +50,11 @@ h2,h3,h4,h5,h6 {
 	color: #292b2c;
 	font-family: "Open sans", sans-serif;
 }
+.h5prop{
+	color: white;
+	font-size: 1.5rem;
+	font-weight: bolder;
+}
 .dot1{
 	color: #6A4FFF;
 }
